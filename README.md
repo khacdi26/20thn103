@@ -20,7 +20,7 @@ Tôi yêu thích việc tạo ra những ứng dụng có thể thay đổi cu�
 ## Sở Thích
 
 - Thể thao :bicyclist:
-- Code 	:technologist:
+- Code :computer:
 - Điện ảnh :tv:
 - ...
 
