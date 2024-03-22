@@ -15,13 +15,13 @@
 
 Xin chào! Tôi là một sinh viên IT đam mê lập trình và đặc biệt quan tâm đến phát triển ứng dụng di động trên nền tảng Android sử dụng ngôn ngữ Java.
 
-Tôi yêu thích việc tạo ra những ứng dụng có thể thay đổi cuộc sống của mọi người thông qua công nghệ di động. Tôi đã học và áp dụng kiến thức về Java và Android để xây dựng các ứng dụng dễ sử dụng, chức năng và tương tác.
+Tôi yêu thích việc tạo ra những ứng dụng có thể thay đổi cuộc sống của mọi người thông qua công nghệ di động. Tôi đã học và áp dụng kiến thức về Java và Android để xây dựng các ứng dụng dễ sử dụng, chức năng và tương tác. :calling:
 
 ## Sở Thích
 
-- Thể thao
-- Code
-- Điện ảnh
+- Thể thao :bicyclist:
+- Code :computer:
+- Điện ảnh :tv:
 - ...
 
 ## Liên Kết
@@ -45,6 +45,6 @@ Tôi yêu thích việc tạo ra những ứng dụng có thể thay đổi cu�
 
 ## Học vấn
 
-- **Trường:** Ho Chi Minh City University of Technology
+- **Trường:** [Ho Chi Minh City University of Technology ](https://www.hutech.edu.vn/) 
 - **Chuyên ngành:** Information Technology
 - **Thời gian:** 2020 - 2024
