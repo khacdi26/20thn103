@@ -45,6 +45,6 @@ Tôi yêu thích việc tạo ra những ứng dụng có thể thay đổi cu�
 
 ## Học vấn
 
-- **Trường:** Ho Chi Minh City University of Technology
+- **Trường:** [Ho Chi Minh City University of Technology ](https://www.hutech.edu.vn/) 
 - **Chuyên ngành:** Information Technology
 - **Thời gian:** 2020 - 2024
